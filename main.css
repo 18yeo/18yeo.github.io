@@ -1,0 +1,28 @@
+.nav-link {
+    font-weight: normal !important;
+}
+
+.nav-link b {
+    font-weight: bolder;
+}
+
+body {
+    background-color: #00c000;
+}
+
+.splitContainer {
+    width: 100%;
+    /*text-align: left;*/
+}
+
+.split {
+    width: 49%;
+}
+
+.splitL {
+    float: left;
+}
+
+.splitR {
+    float: right;
+}
